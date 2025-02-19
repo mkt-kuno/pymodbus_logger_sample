@@ -12,5 +12,5 @@ PyenvやvenvなどのPythonで標準的な環境切り分け、
 どう使ってもらっても構いません。改変しても販売しても、すべてお任せします。    
 
 
-[Trio/Quartet](https://github.com/mkt-kuno/quartet)  
-[Yamanin](https://github.com/mkt-kuno/yamanin)  
+[Trio/Quartet](https://github.com/mkt-kuno/quartet) 限定公開リポジトリ  
+[Yamanin](https://github.com/mkt-kuno/yamanin) 限定公開リポジトリ  
