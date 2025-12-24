@@ -1,4 +1,4 @@
-# Simple Logger App for Trio/Quartet/Yamanin
+# Pymodbus Logger Sample App
 Python3.10 以上で動作可能なシンプルなModbusロガーです  
 データ出力先は APPDATAの先にsqlite3だけという、こちらもシンプルな仕組みです。  
 
